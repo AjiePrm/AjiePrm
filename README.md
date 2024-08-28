@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajieprm&label=Profile%20views&color=0e75b6&style=flat" alt="ajieprm" /> </p>
+<script src="https://tryhackme.com/badge/3367129"></script>
 
 - 📫 How to reach me **ajiee.salahudin@gmail.com**
 
