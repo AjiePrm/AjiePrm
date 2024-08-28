@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajie Salahudin Prima</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer and cyber security enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajieprm&label=Profile%20views&color=0e75b6&style=flat" alt="ajieprm" /> </p>
 
-<p align="left"> <script src="https://tryhackme.com/badge/3367129"></script> </p>
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/ajiee.salahudin.png" alt="TryHackMe"> </p>
 
 - 📫 How to reach me **ajiee.salahudin@gmail.com**
 
