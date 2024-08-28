@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajieprm&label=Profile%20views&color=0e75b6&style=flat" alt="ajieprm" /> </p>
 
-<img src="https://tryhackme.com/badge/3367129" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/3367129" alt="TryHackMe"></script>
 
 - 📫 How to reach me **ajiee.salahudin@gmail.com**
 
