@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/ajiee.salahudin.png" alt="TryHackMe"> </p>
 
-<div><script src="https://tryhackme.com/badge/3367129"></script></div>
+  <script src="https://tryhackme.com/badge/3367129"></script>
 
 - 📫 How to reach me **ajiee.salahudin@gmail.com**
 
